@@ -19,5 +19,6 @@
 - Tkinter（GUI構築）
 - 標準ライブラリ（json, os など）
 
+https://drive.google.com/file/d/1_FjZWj1_1T7O3geWJWr3D1GZUjS8g_fL/view?usp=sharing
 ## 実行方法
 
