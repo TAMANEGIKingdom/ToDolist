@@ -21,7 +21,7 @@
 
 ## 起動方法（EXE版）
 
-🔗 実行ファイル付きZIP（約3.5GB）  
+🔗 実行ファイル付きZIP（約44MB）  
 [AI.zip ダウンロードはこちら（Google Drive）](https://drive.google.com/file/d/1_FjZWj1_1T7O3geWJWr3D1GZUjS8g_fL/view?usp=sharing)
 
 ## 実行方法
